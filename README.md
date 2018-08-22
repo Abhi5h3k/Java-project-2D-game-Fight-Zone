@@ -17,9 +17,9 @@ These instructions will get you a copy of the project up and running on your loc
 2.Locate the downloaded Zip and extract to the prject directory where you want to keep the project. 
 	
 3. open Eclipse and follow the steps to import the project:
-	File> open projects from file system > 
-		>Import projects from File system or Archive window will appear
-		  > click on directory button and import  the source (path to the folder extracted after downloadint the Zip)
+	*File> open projects from file system >
+		*>Import projects from File system or Archive window will appear
+		 * > click on directory button and import  the source (path to the folder extracted after downloadint the Zip)
 			check project is selected and hit Finish
 				
 Now you will see roject in the project explorer window.
