@@ -1,7 +1,7 @@
 # 2D Java Game
 
 
-[2D Java game by Abhishek Bhardwaj](https://media.giphy.com/media/vRGJwqwhJFesIxArU2/giphy.gif)
+![2D Java game by Abhishek Bhardwaj](https://media.giphy.com/media/vRGJwqwhJFesIxArU2/giphy.gif)
 
 This is a simple 2D java game developed using eclipse IDE and little brain, I made this game as a free time project while learning SWINGS and AWT in JAVA. I have included comments and useful links within the code for help.
 
