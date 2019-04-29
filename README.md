@@ -32,7 +32,7 @@ Now you will see roject in the project explorer window.
 
 For Devlopment : [Eclipse](https://www.eclipse.org/downloads/)
  		 [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
-For Runnung    : [Java JRE](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+For Running    : [Java JRE](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
  
  
 ## Built With
